@@ -1,0 +1,22 @@
+.debt-container {
+  background-color: rgba(211, 209, 209, 0.05);
+  padding: 1rem;
+  border-radius: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.debt-name {
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.debt-amount {
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 0.25rem;
+}
+
+.debt-due-date {
+  color: rgba(255, 255, 255, 0.8);
+}
